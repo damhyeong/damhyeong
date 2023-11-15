@@ -1,4 +1,10 @@
-### Hi there 👋
+###  👋
+
+<hr/>
+<br>
+
+### 저의 골드는 구현 80%의 성으로 만들어졌습니다
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhdwhdals8)](https://solved.ac/rhdwhdals8)
 
 <!--
