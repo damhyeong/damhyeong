@@ -12,6 +12,8 @@
 ### 알고리즘 문제 Repository
 
 ### `Algorithm-Exam` && `SW_EXPERT_ACADEMY`
+> * `Algorithm-Exam` = 백준, 프로그래머스 알고리즘 문제
+> * `SW_EXPERT_ACADEMY` = SW Expert Academy 사이트 알고리즘 문제
 
 <hr>
 
