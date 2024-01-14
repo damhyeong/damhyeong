@@ -16,19 +16,6 @@
 
 <hr>
 
-### 쿠팡에게 보안취약점 보고로 포상금 300만원(세금떼고) 을 받게 된 프로그램 Repository
-
-### `AWS_Lambda_Crawl`
-
-> * 해당 프로그램은 AWS Ramda기반의 프로그램으로, 프로그램 에디터로 실행 할 수 있는 프로그램이 아닙니다.
-> * 쿠팡에 사업자 등록 키가 존재할 경우 실행이 가능하지만, 현재 쿠팡 보안의 향상으로 구동시킬 수 없습니다. 
-> * 위 프로그램으로 또 다른 보안취약점 프로그램을 양산 할 시, 본인은 책임을 지지 않습니다.
-> * 쿠팡의 보안 정책으로 더 이상의 정보 공개는 불가합니다.
-
-![coupang_img](./Coupang_Answer.png)
-
-<hr>
-
 <!--
 **damhyeong/damhyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
