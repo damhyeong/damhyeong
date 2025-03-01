@@ -1,13 +1,5 @@
 ###  👋
 
-### 현재 프로그래머스 부트캠프에서 공부중입니다. 24-08 ~ 25-02
-
-<a target="_blank" href="https://decisive-plier-938.notion.site/programmers-TIL-7be86ec8c34140c6a39db976fac9c681">프로그래머스 TIL</a>
-
-<hr/>
-<br>
-
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhdwhdals8)](https://solved.ac/rhdwhdals8)
 
 <hr>
